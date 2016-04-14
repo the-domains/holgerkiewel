@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[holgerkiewel]]></title>
+        <description><![CDATA[holgerkiewel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 17:42:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kim & Vicente]]></title>
+            <description><![CDATA[<article><h1>Kim & Vicente</h1><p>Beschreibung</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ec08163-7597-4beb-a1c8-c49d9ab27676.jpg"></article>]]></description>
+            <link>undefinedkim-and-vicente/index.html</link>
+            <guid isPermaLink="false">8cf7dafc-c411-4dcd-90e7-183e08368260</guid>
+            <pubDate>Thu, 14 Apr 2016 17:42:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
