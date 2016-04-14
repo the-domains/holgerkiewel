@@ -1,0 +1,28 @@
+name: holgerkiewel
+favicon: null
+layout_spectrum: 0.706560265738517
+typography_spectrum: 0.42724024411290884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.16634479304775596
+  lightness: 0.15670502232387662
+  saturation: 0.21163305477239192
+  rhythmicContrast: 0.6264622863382101
+purpose: []
